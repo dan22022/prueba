@@ -1,6 +1,2 @@
 hola mundo
-<<<<<<< HEAD
-hola mundo3
-=======
-Hola mundo2
->>>>>>> master
+hola 10
